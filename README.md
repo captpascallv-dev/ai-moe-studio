@@ -1,3 +1,11 @@
+> **已迁移至 agent-baton / Moved to agent-baton**
+>
+> AI娘研究室的开发与维护已并入 [agent-baton/studio](https://github.com/captpascallv-dev/agent-baton/tree/main/studio)。请到新目录查看最新代码和安装说明，并在 [agent-baton Issues](https://github.com/captpascallv-dev/agent-baton/issues) 反馈问题。本仓保留为历史只读存档；下方是归档时的说明。
+>
+> Development and maintenance of AI Moe Studio have moved to [agent-baton/studio](https://github.com/captpascallv-dev/agent-baton/tree/main/studio). Visit the new directory for current code and setup instructions, and use [agent-baton Issues](https://github.com/captpascallv-dev/agent-baton/issues) for feedback. This repository is retained as a read-only historical archive; the documentation below describes the archived version.
+
+---
+
 <div align="center">
 
 # AI娘研究室
